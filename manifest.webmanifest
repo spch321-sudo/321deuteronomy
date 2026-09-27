@@ -1,8 +1,8 @@
 {
-  "name": "321民數記講義",
-  "short_name": "321民數記講義",
-  "description": "民數記全書三十六章：逐節原文解經、講章逐字稿、教學講章、321 生命應用。",
-  "id": "/321numbers/",
+  "name": "321申命記講義",
+  "short_name": "321申命記講義",
+  "description": "申命記全書三十四章：逐節原文解經、講章逐字稿、教學講章、321 生命應用。",
+  "id": "/321deuteronomy/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
